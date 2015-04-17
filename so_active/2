@@ -1,0 +1,7 @@
+module SoActive
+  module Scopes
+    def active
+
+    end
+  end
+end

@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require_relative '../lib/paul_mega_lotto/drawing'
+
+drawing = PaulMegaLotto::Drawing.new
+puts drawing.draw
